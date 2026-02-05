@@ -1,0 +1,8 @@
+certifi==2026.1.4
+charset-normalizer==3.4.4
+idna==3.11
+progressbar==2.5
+python-magic-bin==0.4.14
+requests==2.32.5
+simple-image-download==0.4
+urllib3==2.6.3
